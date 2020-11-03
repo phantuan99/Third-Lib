@@ -1,0 +1,23 @@
+{
+    "name": "Web-Mess",
+    "homepage": "https://github.com/phantuan99",
+    "authors": [
+      "phantuan99 <tuanpx8@gmail.com>"
+    ],
+    "description": "",
+    "main": "src/server.js",
+    "license": "",
+    "private": true,
+    "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test",
+      "tests"
+    ],
+    "dependencies": {
+      "bower_components": "https://github.com/phantuan99/Third-Lib.git"
+      
+    }
+  }
+  
